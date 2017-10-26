@@ -1,0 +1,10 @@
+body
+{
+	background-color: lightblue;
+}
+div
+{
+	border: solid 3px green;
+	width: 300px;
+	padding: 30px;
+}
